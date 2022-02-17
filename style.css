@@ -1,0 +1,36 @@
+html body{
+    background-color: aqua;
+    font-family: 'Quicksand', sans-serif;
+}
+
+/* .divide
+{
+    border: 1px solid black;
+} */
+
+img
+{
+    width: 90%;
+}
+
+.social-image{
+    text-align: center;
+}
+
+.main-form{
+    background-color: #FFEDDB;
+    margin: 10% 20%;
+    text-align: center;
+    font-size: larger;
+    border-radius: 1rem;
+}
+
+.input-text{
+    width: 90%;
+    margin-top: 1%;
+    margin-bottom: 2%;
+}
+
+.submit-button{
+    margin-bottom: 2%;
+}
